@@ -116,9 +116,9 @@ st.markdown("""
         background-color: #498D91;
         color: white;
         border: none;
-        padding: 15px 40px; 
+        padding: 15px 40px; /* Increased padding for larger button */
         border-radius: 8px;
-        font-size: 1.2em; 
+        font-size: 1.2em; /* Larger font size */
         font-weight: 500;
         transition: background-color 0.3s ease, transform 0.2s ease;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
